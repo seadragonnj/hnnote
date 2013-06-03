@@ -4,23 +4,84 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Language" content="zh-CN"/>
     <link href="/css/defaultcss.css" type="text/css" rel="stylesheet" media="all">
+    <link href="/css/pygments_native.css" type="text/css" rel="stylesheet" media="all">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Handlee">
 　  <title>{{ page.title }}</title>
   </head>
 　<body>
-     <header id="header">
-     <div class="header-info fix">
-         <a class="brand" href="/" style="padding-left:46px;">Sea Dragon</a>
-        <nav> 
-	<ul>
-  <li><a href="/posts">Blogs</a></li>
-  <li><a href="/archive">Archive</a></li>
-  <li><a href="/tags">Tags</a></li>
-  <li><a href="/about">About Me</a></li>
+    <header id="header">
+      <div class="header-info fix">
+        <h1><a href="/">Calefy</a></h1>
+        <p class="describe">&lt; Front End ... /&gt;</p>
+        <nav class="navigation">
+          <ul>
+            <li><a href="/">首页</a></li>
+            <li><a href="/archive.html">列表</a></li>
+            <li><a href="/atom.xml">RSS</a></li>
           </ul>
-	</nav>
-    </div>
+        </nav>
+      </div>
     </header>
-　　　　{{ content }}
+<section id="content" class="fix">
+      <article id="post">
+  <a href="#" class="icon-fullscreen r" title="点击全屏显示"></a>
+  <div class="c9">
+    分类：  
+      <a href="/category.html#jekyll">jekyll</a>
+    标签：{{tag}}
+        
+  </div>
+    {{ content }}
+</article>
+
+<script src="/js/jquery-min.js"></script>
+<script src="/js/Fullscreen.js"></script>
+<script type="text/javascript">
+$(function() {
+  var global = window;
+
+  // ============== Disqus 定义 ==============
+  (function() {
+    global.disqus_shortname = 'calefy';
+    $('<script type="text/javascript" async ' +
+      'src="http://' + global.disqus_shortname + '.disqus.com/embed.js">' +
+      '<\/script>').appendTo('head');
+  })();
+
+
+  // =============== 全屏显示 ==================
+  (function() {
+    var icon = $( 'a.icon-fullscreen' ),
+      fs, fsCallback;
+    
+    fsCallback = function(isFullscreen) {
+        if (isFullscreen) {
+          icon.addClass('expand').attr('title', 'ESC 退出全屏');
+        }
+        else {
+          icon.removeClass('expand').attr('title', '点击全屏显示');
+        }
+      };
+      
+    fs = new Fullscreen({
+        element: $('#post'),
+        noSafari: true,
+        callback: fsCallback
+      });
+
+    if (fs.fullscreenEnabled) {
+      icon.on('click', function() {
+        fs.toggleFullscreen();
+        return false;
+      });
+    }
+    else {
+      icon.hide();
+    }
+  })();
+
+</script>
+    </section>
      <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
