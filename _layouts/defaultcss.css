@@ -9,6 +9,21 @@ html, body {
 .navbar {
   margin-bottom: 0;
 }
+.navigation {
+  position: absolute;
+  top: 1.3em;
+  right: 3px;
+}
+.header-info {
+  position: relative;
+}
+.fix {
+  zoom: 1;
+}
+#header {
+  position: relative;
+  border-bottom: 1px solid #ccc;
+}
 .navbar .container{ 
   width:940px;
 }

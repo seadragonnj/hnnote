@@ -7,19 +7,19 @@
 　  <title>{{ page.title }}</title>
   </head>
 　<body>
-     <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="brand" href="/" style="padding-left:46px;">Sea Dragon</a>
-          <ul class="nav">
+     <header id="header">
+     <div class="header-info fix">
+         <a class="brand" href="/" style="padding-left:46px;">Sea Dragon</a>
+        <nav> 
+	<ul>
   <li><a href="/posts">Blogs</a></li>
   <li><a href="/archive">Archive</a></li>
   <li><a href="/tags">Tags</a></li>
   <li><a href="/about">About Me</a></li>
           </ul>
-        </div>
-      </div>
+	</nav>
     </div>
+    </header>
 　　　　{{ content }}
      <div id="disqus_thread"></div>
     <script type="text/javascript">
