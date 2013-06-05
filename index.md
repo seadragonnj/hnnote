@@ -1,6 +1,6 @@
 ---
 layout: index 
-title: 王海龙的网络日志
+title: Calefy - 前端点滴...
 ---
 
 {% for post in site.posts %}
@@ -10,5 +10,4 @@ title: 王海龙的网络日志
 
   [全文阅读 &raquo;]({{ post.url }})
 {% endfor %}
-
 
