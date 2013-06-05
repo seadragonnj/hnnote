@@ -1,6 +1,6 @@
 ---
 layout: index 
-title: Calefy - 前端点滴...
+title: Sea Daragon - 技术 生活记录...
 ---
 
 {% for post in site.posts %}
