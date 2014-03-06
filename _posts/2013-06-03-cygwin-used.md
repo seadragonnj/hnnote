@@ -28,5 +28,5 @@ syntax enable
 *set hlsearch：*搜索到内容高亮  
 
 ##显示  
-打开*${HOME}/.baserc文件，把 alias ll='ls -l'*这一行放开，就可以使用ll命令了  
-把*alias ls='ls -hF --color=tty'*放开，可以让ls出来的结果有颜色  
+打开*${HOME}/.baserc文件，把 alias ll='ls -l'*这一行放开，就可以使用ll命令了.
+把*alias ls='ls -hF --color=tty'*放开，可以让ls出来的结果有颜色.  
