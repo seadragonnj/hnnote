@@ -14,4 +14,4 @@ tags: [ tour, photo ]
  
 第一天8:30从北京出发坐高铁到太原，在太原吃了个午饭，然后就坐旅游公司的大巴，直接去乔家大院，从太原到乔家大院大概需要3个多小时，我们在下午两点左右到了乔家大院
 
-[http://c.hiphotos.bdimg.com/album/s%3D900%3Bq%3D90/sign=bd0ad9538635e5dd942ca9df46fdd6d2/42a98226cffc1e17784ab5304990f603738de93e.jpg](http://c.hiphotos.bdimg.com/album/s%3D900%3Bq%3D90/sign=bd0ad9538635e5dd942ca9df46fdd6d2/42a98226cffc1e17784ab5304990f603738de93e.jpg)
+![乔家大院入口](http://c.hiphotos.bdimg.com/album/s%3D900%3Bq%3D90/sign=bd0ad9538635e5dd942ca9df46fdd6d2/42a98226cffc1e17784ab5304990f603738de93e.jpg)
