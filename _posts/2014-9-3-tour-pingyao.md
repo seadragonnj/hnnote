@@ -25,5 +25,13 @@ tags: [ tour, photo ]
 
 下午4:30在导游的催促下，我们一行，离开乔家大院，向平遥进发，车程差不多一个小时吧
 
-下车后，首先看到的就是平遥的古城墙了，说是古城墙，但是一看就是做过翻新的了！
+下车后，首先看到的就是平遥的古城墙了，说是古城墙，但是一看就是做过翻新的了！这张照片做过处理，实际上城墙比这新多了
+
 ![平遥](http://e.hiphotos.bdimg.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=7abb11a4097b020808c93fe452e283ee/1c950a7b02087bf41e6c6ee8f1d3572c11dfcf2a.jpg?referer=e29967510f338744c5d21b4c29e8&x=.jpg)
+![平遥](http://h.hiphotos.bdimg.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=b8ffe7c9194c510faac4e21f50625410/eaf81a4c510fd9f9e8916c68262dd42a2834a428.jpg?referer=0e16c7de75094b3682852fdd04e6&x=.jpg)
+
+走向酒店
+
+![平遥](http://h.hiphotos.bdimg.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=049ff7c3b1119313c343ffb555037dea/faf2b2119313b07e9d5c69090fd7912396dd8cc9.jpg?referer=c7337af7a4efce1bb33cfcfaecc7&x=.jpg)
+
+>**中间有一个小插曲，导游说从城外到住的地方比较远，可以做电瓶车去，但是需要每人交40块钱，我们一听就觉得不太靠谱，想想一个古城能有多大，每人40,十几个人差不多600多呢，不能这么坑人啊，我们果断拒绝了，纷纷表示走进去！！后来到了平遥后，问了一下电瓶车的价钱，说是人多的话，每人5块都愿意送进去。不过我们还是决定走进去，导游当时明显不高兴了。。。。不过，只能怪她太贪心了，**
